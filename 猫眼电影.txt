@@ -1,0 +1,5 @@
+﻿cnpm run dev  ����Ŀ
+cnpm run build 
+
+路由的搭建完毕
+
